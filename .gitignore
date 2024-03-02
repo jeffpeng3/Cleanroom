@@ -1,7 +1,2 @@
 /.idea/
-/.run/
 /.gradle/
-/projects/
-/buildSrc/.gradle/
-/buildSrc/build/
-/logs/

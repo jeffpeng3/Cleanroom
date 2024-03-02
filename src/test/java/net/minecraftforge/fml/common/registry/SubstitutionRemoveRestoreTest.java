@@ -41,8 +41,6 @@ import org.junit.runner.RunWith;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-import java.util.Map;
-
 /**
  * Substitution test harness - tests that substitutions behave correctly
  */
